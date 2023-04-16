@@ -7,7 +7,7 @@ public class IOStreamDemo {
     public static void main(String[] args) {
         FileOutputStream fileOutputStream = null;
 
-        String ss = "abcfwuiegtfuiewg";
+        String ss = "abcfwuiegtewg";
         byte[] ssBytes = ss.getBytes();
 
         try {
